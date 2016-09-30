@@ -146,7 +146,7 @@ ctx.fillRect(525, 556, 30, 30);
 
 //加载logo
 var logo = new Image();
-logo.src = "0.jpg";
+logo.src = "logo.jpg";
 logo.onload = function  () {
 	ctx.drawImage(logo, 320, 320, 160, 160);
 }
