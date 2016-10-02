@@ -143,6 +143,50 @@ ctx.fillRect(525, 496, 30, 30);
 ctx.fillRect(495, 526, 30, 30);
 ctx.fillRect(555, 526, 30, 31);
 ctx.fillRect(525, 556, 30, 30);
+//logo正下方
+ctx.fillRect(370, 560, 60, 60);
+ctx.fillStyle = "#2077bd";
+ctx.fillRect(371, 561, 58, 58);
+
+ctx.fillStyle = "white";
+ctx.fillRect(335, 595, 60, 60);
+ctx.fillStyle = "#2077bd";
+ctx.fillRect(336, 596, 58, 58);
+
+ctx.fillStyle = "white";
+ctx.fillRect(405, 595, 60, 60);
+ctx.fillStyle = "#2077bd";
+ctx.fillRect(406, 596, 58, 58);
+
+ctx.fillStyle = "white";
+ctx.fillRect(300, 630, 60, 60);
+ctx.fillStyle = "#2077bd";
+ctx.fillRect(301, 631, 58, 58);
+
+ctx.fillStyle = "white";
+ctx.fillRect(370, 630, 60, 60);
+ctx.fillStyle = "#2077bd";
+ctx.fillRect(371, 631, 58, 58);
+
+ctx.fillStyle = "white";
+ctx.fillRect(440, 630, 60, 60);
+ctx.fillStyle = "#2077bd";
+ctx.fillRect(441, 631, 58, 58);
+
+ctx.fillStyle = "white";
+ctx.fillRect(335, 665, 60, 60);
+ctx.fillStyle = "#2077bd";
+ctx.fillRect(336, 666, 58, 58);
+
+ctx.fillStyle = "white";
+ctx.fillRect(405, 665, 60, 60);
+ctx.fillStyle = "#2077bd";
+ctx.fillRect(406, 666, 58, 58);
+
+ctx.fillStyle = "white";
+ctx.fillRect(370, 700, 60, 60);
+ctx.fillStyle = "#2077bd";
+ctx.fillRect(371, 701, 58, 58);
 
 //加载logo
 var logo = new Image();
